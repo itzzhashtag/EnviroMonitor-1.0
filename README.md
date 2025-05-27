@@ -78,10 +78,11 @@ It uses **DHT22**, **MQ135**, **I2C LCDs**, and **custom pixel icons** to make d
 
 ## 👤 Author & Contact
 
-📧 <strong>Email:</strong> <a href="mailto:micro.aniket@example.com">micro.aniket@example.com</a><br>
-💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/itzz-hashtag/">itzz-hashtag</a><br>
-🐙 <strong>GitHub:</strong> <a href="https://github.com/itzzhashtag">itzzhashtag</a><br>
-📸 <strong>Instagram:</strong> <a href="https://instagram.com/itzz_hashtag">@itzz_hashtag</a>
+👨 **Name:** Aniket Chowdhury (aka Hashtag)  
+📧 **Email:** [micro.aniket@gmail.com](mailto:micro.aniket@gmail.com)  
+💼 **LinkedIn:** [itzz-hashtag](https://www.linkedin.com/in/itzz-hashtag/)  
+🐙 **GitHub:** [itzzhashtag](https://github.com/itzzhashtag)  
+📸 **Instagram:** [@itzz_hashtag](https://instagram.com/itzz_hashtag)
 
 ---
 
