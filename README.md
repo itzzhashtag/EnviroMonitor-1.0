@@ -76,6 +76,18 @@ It uses **DHT22**, **MQ135**, **I2C LCDs**, and **custom pixel icons** to make d
 
 ---
 
+## 🖼️ Live Demo & Images
+
+> 🖼️ Add your project images here!
+
+```bash
+📟 LCD1: Shows Temperature & Humidity
+📟 LCD2: Displays Air Quality (PPM)
+
+```
+
+---
+
 ## 👤 Author & Contact
 
 👨 **Name:** Aniket Chowdhury (aka Hashtag)  
@@ -102,12 +114,4 @@ If you find it useful or inspiring, feel free to ⭐ the repository or connect w
 
 > _“If the mind can create, the hands can translate.”_ – Hashtag
 
----
 
-## 🖼️ Live Demo & Images
-
-> 🖼️ Add your project images here!
-
-```bash
-📟 LCD1: Shows Temperature & Humidity
-📟 LCD2: Displays Air Quality (PPM)
