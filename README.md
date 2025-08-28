@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌡️💨 EnviroMonitor-1.0 🏠  
+# 🌡️💨 EnviroMonitor - 1.0 🏠  
 **by [Aniket Chowdhury](mailto:micro.aniket@gmail.com) (aka `#Hashtag`)**
 
 <img src="https://img.shields.io/badge/Status-Working-brightgreen?style=for-the-badge&logo=arduino" alt="Status Badge" />
